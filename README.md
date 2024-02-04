@@ -1,2 +1,2 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/289100850285117460)](https://discord.com/users/289100850285117460)
+[![Discord Presence](https://lanyard.cnrad.dev/api/926831289649201213)](https://discord.com/users/926831289649201213)
 # Hello World 👋<!--
