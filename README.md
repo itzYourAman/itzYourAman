@@ -21,7 +21,7 @@ I'm Aman Kumar and I'm Learning Python Developer
 
 # My GitHub Stats 📊
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=ItzYourHacker&theme=tokyonight)](https://github.com/ItzYourAman)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=ItzYourAman&theme=tokyonight)](https://github.com/ItzYourAman)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzYourAman&theme=tokyonight&layout=compact)](https://github.com/ItzYourAmam)
 
