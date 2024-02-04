@@ -11,12 +11,12 @@ I'm Aman Kumar and I'm Learning Python Developer
 
 
 
-- Discord - [i](https://discord.com/users/926831289649201213)
+- Discord - [亗Tʜᴇ々Aman࿐](https://discord.com/users/926831289649201213)
 
 
 
 ## Visitors
-![~ Hacker_xD#0007](https://profile-counter.glitch.me/ItzYourAman/count.svg)
+![亗Tʜᴇ々Aman࿐](https://profile-counter.glitch.me/ItzYourAman/count.svg)
 
 
 # My GitHub Stats 📊
