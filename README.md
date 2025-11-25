@@ -15,7 +15,7 @@
 # My GitHub Stats 📊
 
 [![GitHub](https://github-readme-stats.vercel.app/api?username=itzYourAman&theme=tokyonight)](https://github.com/itzYourAman)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzYourAman&theme=tokyonight&layout=compact)](https://github.com/itzYourAmam)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzYourAman&theme=tokyonight&layout=compact)](https://github.com/itzYourAman)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itzYourAman&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0)
 
 ## 🏆 GitHub Trophies
