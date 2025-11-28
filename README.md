@@ -14,14 +14,30 @@
 
 # My GitHub Stats 📊
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=itzYourAman&theme=tokyonight)](https://github.com/itzYourAman)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzYourAman&theme=tokyonight&layout=compact)](https://github.com/itzYourAman)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itzYourAman&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=itzYourAman&theme=radical)](https://github.com/itzYourAman)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzYourAman&theme=radical&layout=compact)](https://github.com/itzYourAman)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itzYourAman&theme=radical&hide_border=true&stroke=0000&background=060A0CD0)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itzYourAman&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=itzYourAman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-</span>
 
 
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250" />
+
+</div>
